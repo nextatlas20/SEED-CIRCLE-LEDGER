@@ -1,0 +1,7 @@
+packet_id,seed_type,plot,viability
+PK-ALPHA,basil,herb-garden,VIABLE
+PK-BETA,radish,market-bed,VIABLE
+PK-GAMMA,marigold,pollinator-strip,RESERVED
+PK-DELTA,beans,market-bed,VIABLE
+PK-EPSILON,lettuce,herb-garden,EXPIRED
+PK-ZETA,squash,orchard-edge,VIABLE
